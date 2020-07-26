@@ -1,0 +1,53 @@
+
+p {
+  color: white;
+  font-size: 1.3em;
+}
+
+
+h2 {
+  font-weight: normal;
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #fff;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 1200px) {
+.container {
+    max-width: 1140px;
+    background-color: black;
+}
+}
+
+
+.containers {
+  background-color: black;
+}
+
+
+ul li a {
+  color: white;
+}
+
+ .py-2{
+  color: white !important;
+  font-size: 1.3em;
+}
+
+
+mdb-icon {
+  margin-right: 10px;
+}
+
+
+.text {
+  font-size: 1.3em !important
+}
